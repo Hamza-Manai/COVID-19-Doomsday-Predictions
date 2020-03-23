@@ -1,0 +1,2 @@
+# COVID-19-Doomsday-Predictions
+COVID-19, the disease that can result from the coronavirus worldwide new pandemic, is spreading across the globe. While it has a "lower" fatality rate than the last four aforementioned diseases above, it has spread to many more countries and has infected thousands more people. We try to predict for the next days how many new cases and how many victims the disease will affect
