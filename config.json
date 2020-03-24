@@ -2,7 +2,7 @@
     "models": [
         {
             "model_name": "Total Cases",
-            "polynomial_degree": 6,
+            "polynomial_degree": 5,
             "datascrapper_class": "CasesDataScrapper",
             "offline_dataset_date": "2020-03-25",
             "days_to_predict": 1
