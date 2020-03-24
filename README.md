@@ -20,7 +20,7 @@ The predictions for Total Deaths in the following 1 days is:
 The predictions for Total Critical Cases in the following 1 days is:
 14062
 
-![Total Cases](./graphs/Total Cases.jpg)
+![Total Cases](/graphs/Total Cases.jpg)
 
 Our predictions for 23/03/2020 : 
 
