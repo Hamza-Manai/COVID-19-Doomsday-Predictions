@@ -20,7 +20,7 @@ The predictions for Total Deaths in the following 1 days is:
 The predictions for Total Critical Cases in the following 1 days is:
 14062
 
-![image-20200324102044718](C:\Users\HAMZA\AppData\Roaming\Typora\typora-user-images\image-20200324102044718.png)
+![Total Cases](./graphs/Total Cases.jpg)
 
 Our predictions for 23/03/2020 : 
 
