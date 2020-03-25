@@ -12,30 +12,33 @@ COVID-19, the disease that can result from the coronavirus worldwide new pandemi
 
 
 
-Our predictions for 24/03/2020 : 
+Our predictions for 25/03/2020 : 
 
 The predictions for Total Cases in the following 1 days is:
-419859
+466883
 
 The predictions for Total Active Cases in the following 1 days is:
-292093
+333371
 
 The predictions for Total Cured Cases in the following 1 days is:
-108171
+114684
 
 The predictions for Total Deaths in the following 1 days is:
-18646
+21202
 
 The predictions for Total Critical Cases in the following 1 days is:
-14062
+15664
 
 
 
+```
 ![Total Cases](https://github.com/Manai-Hamza/COVID-19-Doomsday-Predictions/blob/master/graphs/Total%20Cases.jpg?raw=true)
+```
 
 
 
 |    Date    | Predicted Total Cases | Real Total Cases | Predicted Total Recovered | Real Total Recovered | Predicted  Total Deaths | Real Total Deaths | Predicted Active Cases | Real Total Cases | Predicted  Critical Cases | Real Critical Cases |
 | :--------: | :-------------------: | :--------------: | :-----------------------: | :------------------: | :---------------------: | :---------------: | :--------------------: | :--------------: | :-----------------------: | :-----------------: |
-| 24/03/2020 |        419859         |        ??        |          108171           |          ??          |          18646          |        ??         |         292093         |        ??        |           14062           |         ??          |
+| 26/03/2020 |        466883         |        ??        |          114684           |          ??          |          21202          |        ??         |         333371         |        ??        |           15664           |         ??          |
+| 24/03/2020 |        419859         |      422574      |          108171           |        108879        |          18646          |       18894       |         292093         |      294801      |           14062           |        13095        |
 | 23/03/2020 |        374118         |      378860      |          104630           |        102069        |          16485          |       16514       |         252519         |      260277      |           12252           |        12062        |
