@@ -15,31 +15,34 @@ COVID-19, the disease that can result from the coronavirus worldwide new pandemi
 Our predictions for 26/03/2020 : 
 
 The predictions for Total Cases today is:
-521552
+585682
 
 The predictions for Total Active Cases today is:
-379021
+431739
 
 The predictions for Total Cured Cases today is:
-121254
+131516
 
 The predictions for Total Deaths  today is:
-23992
+27113
 
 The predictions for Total Critical Cases  today is:
-17778
+22463
 
 
 
-
+```
 ![Total Cases](https://github.com/Manai-Hamza/COVID-19-Doomsday-Predictions/blob/master/graphs/Total%20Cases.jpg?raw=true)
+```
+
 
 
 
 
 |    Date    | Predicted Total Cases | Real Total Cases | Predicted Total Recovered | Real Total Recovered | Predicted  Total Deaths | Real Total Deaths | Predicted Active Cases | Real Total Cases | Predicted  Critical Cases | Real Critical Cases |
 | :--------: | :-------------------: | :--------------: | :-----------------------: | :------------------: | :---------------------: | :---------------: | :--------------------: | :--------------: | :-----------------------: | :-----------------: |
-| 26/03/2020 |        521552         |        ??        |          121254           |          ??          |          23992          |        ??         |         379021         |        ??        |           17778           |         ??          |
+| 27/03/2020 |        585682         |        ??        |          131516           |          ??          |          27113          |        ??         |         431739         |        ??        |           22463           |         ??          |
+| 26/03/2020 |        521552         |      531865      |          121254           |        123942        |          23992          |       24073       |         379021         |      383850      |           17778           |        19357        |
 | 25/03/2020 |        466883         |      471035      |          114684           |        114228        |          21202          |       21284       |         333371         |      335523      |           15664           |        14792        |
 | 24/03/2020 |        419859         |      422574      |          108171           |        108879        |          18646          |       18894       |         292093         |      294801      |           14062           |        13095        |
 | 23/03/2020 |        374118         |      378860      |          104630           |        102069        |          16485          |       16514       |         252519         |      260277      |           12252           |        12062        |
