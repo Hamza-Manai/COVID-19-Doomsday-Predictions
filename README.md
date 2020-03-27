@@ -31,9 +31,9 @@ The predictions for Total Critical Cases  today is:
 
 
 
-```
+
 ![Total Cases](https://github.com/Manai-Hamza/COVID-19-Doomsday-Predictions/blob/master/graphs/Total%20Cases.jpg?raw=true)
-```
+
 
 
 
