@@ -1,0 +1,13 @@
+beautifulsoup
+matplotlib
+numpy
+pyparsing
+requests
+scikit-learn
+scipy
+six
+urllib3
+operator
+json
+re
+AST

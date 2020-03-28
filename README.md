@@ -12,22 +12,17 @@ COVID-19, the disease that can result from the coronavirus worldwide new pandemi
 
 
 
-Our predictions for 26/03/2020 : 
+Our predictions for 27/03/2020 : 
 
-The predictions for Total Cases today is:
-585682
+The predictions for Total Cases today is: 657402  
 
-The predictions for Total Active Cases today is:
-431739
+The predictions for Total Active Cases today is: 490167
 
-The predictions for Total Cured Cases today is:
-131516
+The predictions for Total Cured Cases today is: 142905
 
-The predictions for Total Deaths  today is:
-27113
+The predictions for Total Deaths  today is: 30679
 
-The predictions for Total Critical Cases  today is:
-22463
+The predictions for Total Critical Cases  today is: 28023
 
 
 
@@ -36,12 +31,10 @@ The predictions for Total Critical Cases  today is:
 
 
 
-
-
-
 |    Date    | Predicted Total Cases | Real Total Cases | Predicted Total Recovered | Real Total Recovered | Predicted  Total Deaths | Real Total Deaths | Predicted Active Cases | Real Total Cases | Predicted  Critical Cases | Real Critical Cases |
 | :--------: | :-------------------: | :--------------: | :-----------------------: | :------------------: | :---------------------: | :---------------: | :--------------------: | :--------------: | :-----------------------: | :-----------------: |
-| 27/03/2020 |        585682         |        ??        |          131516           |          ??          |          27113          |        ??         |         431739         |        ??        |           22463           |         ??          |
+| 28/03/2020 |        657402         |        ??        |          142905           |          ??          |          30679          |        ??         |         490167         |        ??        |           28023           |         ??          |
+| 27/03/2020 |        585682         |      596366      |          131516           |        133059        |          27113          |       27344       |         431739         |      435963      |           22463           |        23522        |
 | 26/03/2020 |        521552         |      531865      |          121254           |        123942        |          23992          |       24073       |         379021         |      383850      |           17778           |        19357        |
 | 25/03/2020 |        466883         |      471035      |          114684           |        114228        |          21202          |       21284       |         333371         |      335523      |           15664           |        14792        |
 | 24/03/2020 |        419859         |      422574      |          108171           |        108879        |          18646          |       18894       |         292093         |      294801      |           14062           |        13095        |
