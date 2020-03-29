@@ -12,17 +12,17 @@ COVID-19, the disease that can result from the coronavirus worldwide new pandemi
 
 
 
-Our predictions for 27/03/2020 : 
+Our predictions for 29/03/2020 : 
 
-The predictions for Total Cases today is: 657402  
+The predictions for Total Cases today is: 734521  
 
-The predictions for Total Active Cases today is: 490167
+The predictions for Total Active Cases today is: 552194
 
-The predictions for Total Cured Cases today is: 142905
+The predictions for Total Cured Cases today is: 154244
 
-The predictions for Total Deaths  today is: 30679
+The predictions for Total Deaths  today is: 34630
 
-The predictions for Total Critical Cases  today is: 28023
+The predictions for Total Critical Cases  today is: 31647
 
 
 
@@ -33,7 +33,8 @@ The predictions for Total Critical Cases  today is: 28023
 
 |    Date    | Predicted Total Cases | Real Total Cases | Predicted Total Recovered | Real Total Recovered | Predicted  Total Deaths | Real Total Deaths | Predicted Active Cases | Real Total Cases | Predicted  Critical Cases | Real Critical Cases |
 | :--------: | :-------------------: | :--------------: | :-----------------------: | :------------------: | :---------------------: | :---------------: | :--------------------: | :--------------: | :-----------------------: | :-----------------: |
-| 28/03/2020 |        657402         |        ??        |          142905           |          ??          |          30679          |        ??         |         490167         |        ??        |           28023           |         ??          |
+| 29/03/2020 |        734521         |        ??        |          154244           |          ??          |          34630          |        ??         |         552194         |        ??        |           31647           |         ??          |
+| 28/03/2020 |        657402         |      663124      |          142905           |        141953        |          30679          |       30862       |         490167         |      490309      |           28023           |        25207        |
 | 27/03/2020 |        585682         |      596366      |          131516           |        133059        |          27113          |       27344       |         431739         |      435963      |           22463           |        23522        |
 | 26/03/2020 |        521552         |      531865      |          121254           |        123942        |          23992          |       24073       |         379021         |      383850      |           17778           |        19357        |
 | 25/03/2020 |        466883         |      471035      |          114684           |        114228        |          21202          |       21284       |         333371         |      335523      |           15664           |        14792        |
@@ -42,4 +43,5 @@ The predictions for Total Critical Cases  today is: 28023
 
 ## How to use
 
-1. Run `python main.py`
+1. Run `python install REQUIREMENTS.txt`
+2. Run `python main.py`
