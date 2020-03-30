@@ -46,9 +46,7 @@ The predictions for Total Critical Cases  today is: 31026
 
 France Covid-19 total deaths Map as an example : 
 
-<iframe width='600' height='600' src='https://geodes.santepubliquefrance.fr/?view=map2&indics=covid_hospit.dc&serie=2020-03-28&f1code=0&lang=fr&iframe=1'></iframe>
-
-
+[![Covid-19 total deaths Map](https://github.com/Manai-Hamza/COVID-19-Doomsday-Predictions/blob/master/graphs/Covid%20Map.png?raw=true)](https://geodes.santepubliquefrance.fr/?view=map2&indics=covid_hospit.dc&serie=2020-03-28&f1code=0&lang=fr&iframe=1)
 
 
 
