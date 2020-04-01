@@ -14,15 +14,15 @@ COVID-19, the disease that can result from the coronavirus worldwide new pandemi
 
 Our predictions for 31/03/2020 : 
 
-The predictions for Total Cases today is: 885928
+The predictions for Total Cases today is: 959493
 
-The predictions for Total Active Cases today is: 661058
+The predictions for Total Active Cases today is: 715358
 
-The predictions for Total Cured Cases today is: 180193
+The predictions for Total Cured Cases today is: 195314
 
-The predictions for Total Deaths  today is: 42846
+The predictions for Total Deaths  today is: 47587
 
-The predictions for Total Critical Cases  today is: 33994
+The predictions for Total Critical Cases  today is: 37303
 
 
 
@@ -33,7 +33,8 @@ The predictions for Total Critical Cases  today is: 33994
 
 |    Date    | Predicted Total Cases | Real Total Cases | Predicted Total Recovered | Real Total Recovered | Predicted  Total Deaths | Real Total Deaths | Predicted Active Cases | Real Active Cases | Predicted  Critical Cases | Real Critical Cases |
 | :--------: | :-------------------: | :--------------: | :-----------------------: | :------------------: | :---------------------: | :---------------: | :--------------------: | :---------------: | :-----------------------: | :-----------------: |
-| 31/03/2020 |        885928         |        ??        |          180193           |          ??          |          42846          |        ??         |         661058         |        ??         |           33994           |         ??          |
+| 01/04/2020 |        959493         |        ??        |          195314           |          ??          |          47587          |        ??         |         715358         |        ??         |           37303           |         ??          |
+| 31/03/2020 |        885928         |      858355      |          180193           |        178117        |          42846          |       42309       |         661058         |      637929       |           33994           |        32836        |
 | 30/03/2020 |        800275         |      784794      |          165482           |        165387        |          38566          |       37788       |         609432         |      581619       |           31026           |        29492        |
 | 29/03/2020 |        734521         |      722359      |          154244           |        151312        |          34630          |       33966       |         552194         |      537081       |           28076           |        26789        |
 | 28/03/2020 |        657402         |      663124      |          142905           |        141953        |          30679          |       30862       |         490167         |      490309       |           28023           |        25207        |
