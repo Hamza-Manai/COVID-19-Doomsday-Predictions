@@ -12,17 +12,17 @@ COVID-19, the disease that can result from the coronavirus worldwide new pandemi
 
 
 
-Our predictions for 02/04/2020 : 
+Our predictions for 03/04/2020 : 
 
-The predictions for Total Cases today is: 1037752
+The predictions for Total Cases today is: 1119168
 
-The predictions for Total Active Cases today is: 770824
+The predictions for Total Active Cases today is: 825982
 
-The predictions for Total Cured Cases today is: 212690
+The predictions for Total Cured Cases today is: 232645
 
-The predictions for Total Deaths  today is: 52830
+The predictions for Total Deaths  today is: 58910
 
-The predictions for Total Critical Cases  today is: 40369
+The predictions for Total Critical Cases  today is: 42957
 
 
 
@@ -33,7 +33,8 @@ The predictions for Total Critical Cases  today is: 40369
 
 |    Date    | Predicted Total Cases | Real Total Cases | Predicted Total Recovered | Real Total Recovered | Predicted  Total Deaths | Real Total Deaths | Predicted Active Cases | Real Active Cases | Predicted  Critical Cases | Real Critical Cases |
 | :--------: | :-------------------: | :--------------: | :-----------------------: | :------------------: | :---------------------: | :---------------: | :--------------------: | :---------------: | :-----------------------: | :-----------------: |
-| 02/04/2020 |        1037752        |        ??        |          212690           |          ??          |          52830          |        ??         |         770824         |        ??         |           40369           |         ??          |
+| 03/04/2020 |        1119168        |        ??        |          232645           |          ??          |          58910          |        ??         |         825982         |        ??         |           42957           |         ??          |
+| 02/04/2020 |        1037752        |     1015065      |          212690           |        212018        |          52830          |       53167       |         770824         |      749880       |           40369           |        37698        |
 | 01/04/2020 |        959493         |      935197      |          195314           |        193989        |          47587          |       47192       |         715358         |      694016       |           37303           |        35478        |
 | 31/03/2020 |        885928         |      858355      |          180193           |        178117        |          42846          |       42309       |         661058         |      637929       |           33994           |        32836        |
 | 30/03/2020 |        800275         |      784794      |          165482           |        165387        |          38566          |       37788       |         609432         |      581619       |           31026           |        29492        |
