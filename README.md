@@ -12,17 +12,17 @@ COVID-19, the disease that can result from the coronavirus worldwide new pandemi
 
 
 
-Our predictions for 04/04/2020 : 
+Our predictions for 05/04/2020: 
 
-The predictions for Total Cases today is: 1215813
+The predictions for Total Cases today is: 1309861
 
-The predictions for Total Active Cases today is: 895783
+The predictions for Total Active Cases today is: 962878
 
-The predictions for Total Cured Cases today is: 252278
+The predictions for Total Cured Cases today is: 272048
 
-The predictions for Total Deaths  today is: 65527
+The predictions for Total Deaths  today is: 72118
 
-The predictions for Total Critical Cases  today is: 44888
+The predictions for Total Critical Cases  today is: 47064
 
 
 
@@ -33,7 +33,8 @@ The predictions for Total Critical Cases  today is: 44888
 
 |    Date    | Predicted Total Cases | Real Total Cases | Predicted Total Recovered | Real Total Recovered | Predicted  Total Deaths | Real Total Deaths | Predicted Active Cases | Real Active Cases | Predicted  Critical Cases | Real Critical Cases |
 | :--------: | :-------------------: | :--------------: | :-----------------------: | :------------------: | :---------------------: | :---------------: | :--------------------: | :---------------: | :-----------------------: | :-----------------: |
-| 04/04/2020 |        1215813        |        ??        |          252278           |          ??          |          65527          |        ??         |         895783         |        ??         |           44888           |         ??          |
+| 05/04/2020 |        1309861        |        ??        |          272048           |          ??          |          72118          |        ??         |         962878         |        ??         |           47064           |         ??          |
+| 04/04/2020 |        1215813        |     1201483      |          252278           |        246467        |          65527          |       64691       |         895783         |      890325       |           44888           |        42288        |
 | 03/04/2020 |        1119168        |     1116662      |          232645           |        228589        |          58910          |       59162       |         825982         |      828911       |           42957           |        39391        |
 | 02/04/2020 |        1037752        |     1015065      |          212690           |        212018        |          52830          |       53167       |         770824         |      749880       |           40369           |        37698        |
 | 01/04/2020 |        959493         |      935197      |          195314           |        193989        |          47587          |       47192       |         715358         |      694016       |           37303           |        35478        |
