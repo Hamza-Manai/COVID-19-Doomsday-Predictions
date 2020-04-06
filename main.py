@@ -4,6 +4,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from sklearn.linear_model import Ridge
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.linear_model import LinearRegression
+from sklearn.ensemble import VotingRegressor
 import time
 
 from sklearn.preprocessing import PolynomialFeatures
@@ -15,6 +19,12 @@ from data_scrapper.critical_case_data_scrapper import CriticalCasesDataScrapper
 from data_scrapper.cured_case_data_scrapper import CuredCasesDataScrapper
 from data_scrapper.data_scrapper import DataScrapper
 
+#reg1 = GradientBoostingRegressor(random_state=1, n_estimators=20)
+#reg2 = RandomForestRegressor(random_state=1, n_estimators=10)
+reg3 = LinearRegression()
+reg4 = Ridge()
+
+ereg = VotingRegressor([('lr', reg3), ('rg', reg4)])
 
 def training_set(datascrapper_class, scrap_data_from_server=True, offline_dataset_date=""):
     scrapper = globals()[datascrapper_class]()
@@ -34,7 +44,7 @@ def training_set(datascrapper_class, scrap_data_from_server=True, offline_datase
 def train_model(x, y, polynomial_degree):
     polynomial_features = PolynomialFeatures(degree=polynomial_degree)
     x_poly = polynomial_features.fit_transform(x)
-    model = Ridge()
+    model = ereg
     model.fit(x_poly, y)
 
     return model
