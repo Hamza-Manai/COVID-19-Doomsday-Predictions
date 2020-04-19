@@ -12,17 +12,17 @@ COVID-19, the disease that can result from the coronavirus worldwide new pandemi
 
 
 
-Our predictions for 13/04/2020: 
+Our predictions for 19/04/2020: 
 
-The predictions for Total Cases today is: 1901275
+The predictions for Total Cases today is: 2358200
 
-The predictions for Total Active Cases today is: 1341708
+The predictions for Total Active Cases today is: 1534226
 
-The predictions for Total Cured Cases today is: 453890
+The predictions for Total Cured Cases today is: 624877
 
-The predictions for Total Deaths  today is: 123378
+The predictions for Total Deaths  today is: 167029
 
-The predictions for Total Critical Cases  today is: 51043
+The predictions for Total Critical Cases  today is: 51163
 
 
 
@@ -33,7 +33,8 @@ The predictions for Total Critical Cases  today is: 51043
 
 |    Date    | Predicted Total Cases | Real Total Cases | Predicted Total Recovered | Real Total Recovered | Predicted  Total Deaths | Real Total Deaths | Predicted Active Cases | Real Active Cases | Predicted  Critical Cases | Real Critical Cases |
 | :--------: | :-------------------: | :--------------: | :-----------------------: | :------------------: | :---------------------: | :---------------: | :--------------------: | :---------------: | :-----------------------: | :-----------------: |
-| 13/04/2020 |        1901275        |        ??        |          453890           |          ??          |         123378          |        ??         |        1341708         |        ??         |           51043           |         ??          |
+| 19/04/2020 |        2358200        |        ??        |          624877           |          ??          |         167029          |        ??         |        1534226         |        ??         |           51163           |         ??          |
+| 13/04/2020 |        1901275        |     1911456      |          453890           |        444711        |         123378          |      119618       |        1341708         |      1347127      |           51043           |        51742        |
 | 12/04/2020 |        1830250        |     1852365      |          431493           |        423399        |         117647          |      114196       |        1301429         |      1314770      |           50955           |        50758        |
 | 11/04/2020 |        1749630        |     1779842      |          405833           |        402709        |         111036          |      108779       |        1256492         |      1268354      |           51564           |        50592        |
 | 10/04/2020 |        1663123        |     1698881      |          381831           |        376254        |         103807          |      102687       |        1205488         |      1219940      |           52087           |        49828        |
